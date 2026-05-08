@@ -45,3 +45,7 @@ for (let i = 0; i < navne.length; i++) {
   <a href="contact.html">Kontakt</a>
 </nav>
 ```
+
+## Images
+
+![This is an alt text.](/images/snowmaa.jpeg "*Her ser du en stor lysende sneman*.")
