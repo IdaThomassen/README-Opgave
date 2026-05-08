@@ -22,8 +22,8 @@ h. Del linket til dit GitHub repository ved at sende en mail til din underviser
 
 ## list
 
-- apple
-- banana
-- pear
-- kiwi
-- blue berry
+- lightweight text format
+- define headings
+- change style
+- show links
+- show code
