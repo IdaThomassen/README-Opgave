@@ -37,3 +37,11 @@ for (let i = 0; i < navne.length; i++) {
     console.log(navne[i]);
 };
 ```
+
+```html
+<nav>
+  <a href="index.html">Forside</a>
+  <a href="about.html">Om os</a>
+  <a href="contact.html">Kontakt</a>
+</nav>
+```
