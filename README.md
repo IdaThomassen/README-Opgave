@@ -27,3 +27,13 @@ h. Del linket til dit GitHub repository ved at sende en mail til din underviser
 - change style
 - show links
 - show code
+
+```JS
+// Et array med navne
+let navne = ["Anna", "Peter", "Sara"];
+
+// Iteration gennem arrayet med et for-loop
+for (let i = 0; i < navne.length; i++) {
+    console.log(navne[i]);
+};
+```
