@@ -19,3 +19,11 @@ g. Upload dit Markdown-dokument README.md til et GitHub repository
 h. Del linket til dit GitHub repository ved at sende en mail til din underviser
 
 # Markdown Dokumentaiton
+
+## list
+
+- apple
+- banana
+- pear
+- kiwi
+- blue berry
