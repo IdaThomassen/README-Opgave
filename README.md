@@ -20,7 +20,7 @@ h. Del linket til dit GitHub repository ved at sende en mail til din underviser
 
 # Markdown Dokumentaiton
 
-## list
+## Lists
 
 - lightweight text format
 - define headings
@@ -52,3 +52,7 @@ for (let i = 0; i < navne.length; i++) {
 
 > At rejse er at leve.  
 > — H. C. Andersen
+
+## Link
+
+Link til [Google](https://www.google.com/search?q=at+rejse+er+at+leve&oq=at+r&gs_lcrp=EgZjaHJvbWUqDAgBECMYJxiABBiKBTIGCAAQRRg5MgwIARAjGCcYgAQYigUyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQgyMzI5ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8/).
