@@ -49,3 +49,6 @@ for (let i = 0; i < navne.length; i++) {
 ## Images
 
 ![This is an alt text.](/images/snowman.jpeg "*Her ser du en stor lysende sneman*.")
+
+> "At rejse er at leve."  
+> — H. C. Andersen
