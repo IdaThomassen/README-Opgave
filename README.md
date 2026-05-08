@@ -50,5 +50,5 @@ for (let i = 0; i < navne.length; i++) {
 
 ![Snemanden.](/images/snowman.jpeg "*Her ser du en stor lysende sneman*.")
 
-> "At rejse er at leve."  
+> At rejse er at leve.  
 > — H. C. Andersen
