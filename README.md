@@ -20,7 +20,7 @@ h. Del linket til dit GitHub repository ved at sende en mail til din underviser
 
 # Markdown Dokumentaiton
 
-## Lists
+## Liste
 
 - lightweight text format
 - define headings
